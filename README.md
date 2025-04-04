@@ -1,2 +1,2 @@
 # RC-records-
-Meta data and tokenbimage
+Meta data and token image
